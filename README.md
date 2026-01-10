@@ -3,9 +3,8 @@
 Also known as **ViniLog** — I'm a developer passionate about **game modding**, **reverse engineering**, and **game hacking**.  
 I enjoy digging deep into software internals and creating powerful tools and mods.
 
-📢 Telegram Channel: [@VComDevs](https://t.me/VComDevs)  
-💬 Contact: [@ViniLog](https://t.me/ViniLog)  
-🧑‍💼 Manager: [@Badly_Day](https://t.me/Badly_Day)
+📢 Telegram Channel: [@VComDevs](https://t.me/VComDevs)
+🧑‍💼 Contact: [@Badly_Day](https://t.me/Badly_Day)
 
 
 # 💻 Tech Stack:
