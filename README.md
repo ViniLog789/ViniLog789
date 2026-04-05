@@ -1,10 +1,16 @@
 ## Hi, I'm Matvey 👋
 
-Also known as **ViniLog** — I'm a developer passionate about **game modding**, **reverse engineering**, and **game hacking**.  
-I enjoy digging deep into software internals and creating powerful tools and mods.
+Also known as **ViniLog** - developer focused on **game modding**, **reverse engineering**, and low-level software exploration.
+I enjoy understanding how things work under the hood and building tools based on that knowledge.
 
-📢 Telegram Channel: [@VComDevs](https://t.me/VComDevs)
-🧑‍💼 Contact: [@Badly_Day](https://t.me/Badly_Day)
+📢 Telegram: [https://t.me/VComDevs](https://t.me/VComDevs)
+🧑‍💼 Contact (Telegram): [https://t.me/Badly_Day](https://t.me/Badly_Day)
+💬 Discord: **vinilog789**
+
+### 💬 About communication
+
+If you send me a friend request, I'll most likely ask something like:
+**"What did you want?"** or **"Why did you add me?"** - just to understand your goal and save time for both of us.
 
 
 # 💻 Tech Stack:
