@@ -3,9 +3,9 @@
 Also known as **ViniLog** - developer focused on **game modding**, **reverse engineering**, and low-level software exploration.
 I enjoy understanding how things work under the hood and building tools based on that knowledge.
 
-📢 Telegram: [https://t.me/VComDevs](https://t.me/VComDevs)
-🧑‍💼 Contact (Telegram): [https://t.me/Badly_Day](https://t.me/Badly_Day)
-💬 Discord: **vinilog789**
+- 📢 Telegram: [https://t.me/VComDevs](https://t.me/VComDevs)
+- 🧑‍💼 Contact (Telegram): [https://t.me/Badly_Day](https://t.me/Badly_Day)
+- 💬 Discord: **vinilog789**
 
 ### 💬 About communication
 
